@@ -1,0 +1,10 @@
+,Pokedex,Name,Type 1,Type 2
+0,1,Bulbasaur,Grass,Poison
+1,2,Ivysaur,Grass,Poison
+2,3,Venusaur,Grass,Poison
+3,4,Charmander,Fire,
+4,5,Charmeleon,Fire,
+5,6,Charizard,Fire,Flying
+6,7,Squirtle,Water,
+7,8,Wartortle,Water,
+8,9,Blastoise,Water,
